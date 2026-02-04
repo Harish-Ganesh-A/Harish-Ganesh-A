@@ -1,1 +1,1 @@
-Testing trying to add a new line
+Testing from VS code, checking
